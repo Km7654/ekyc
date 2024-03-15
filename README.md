@@ -1,4 +1,9 @@
+
 KYC Verification system
+
+Demonstration Video-
+https://github.com/Km7654/ekyc/assets/103763311/7113262a-7d0b-4e8b-9efa-c1405e4d1713
+
 
 Team: BitHeavens
 Standard Chartered Hackathon
@@ -37,5 +42,4 @@ DJango
 Flask
 ChatGPT API
 
-Demonstration Video-
-https://github.com/Km7654/ekyc/assets/103763311/7113262a-7d0b-4e8b-9efa-c1405e4d1713
+
