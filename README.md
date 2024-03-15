@@ -29,7 +29,7 @@ Our solution, vKYC Chain, offers a transformative approach to the conventional K
 
 To enhance user experience and facilitate smooth navigation through the KYC process, vKYC Chain integrates a guiding chatbot. This conversational interface assists users step by step, providing clear instructions and addressing any queries they may have along the way. Through interactive dialogue, users can seamlessly provide the necessary information required for KYC compliance.
 
-In line with our commitment to inclusivity, vKYC Chain features an interactive 'game-mode' option tailored for differently-abled individuals. This mode adopts alternative methods of interaction, such as voice commands or simplified visual cues, to ensure accessibility and ease of use for all users. By catering to diverse needs and preferences, vKYC Chain promotes inclusivity and empowers individuals from various backgrounds to participate in the digital economy.
+We have developed a game specifically designed for individuals with Down syndrome. This game aims to educate them about KYC (Know Your Customer) procedures and the necessary documents involved. Players embark on a quest to locate all the required documents, making the learning process engaging and interactive.
 
 Our solution prioritizes accessibility, user-friendliness, and security, making the KYC process intuitive and self-sufficient for users across languages and generations. Whether users are tech-savvy professionals or individuals with limited digital literacy, vKYC Chain offers a seamless and inclusive solution for fulfilling KYC requirements in an online environment.
 
