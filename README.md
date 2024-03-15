@@ -4,8 +4,11 @@ KYC Verification system
 Demonstration Video-
 https://github.com/Km7654/ekyc/assets/103763311/7113262a-7d0b-4e8b-9efa-c1405e4d1713
 
+PPT-
+[Bit Heavens.pptx](https://github.com/Km7654/ekyc/files/14611929/Bit.Heavens.pptx)
 
 Team: BitHeavens
+
 Standard Chartered Hackathon
 Theme: Online Video KYC
 Team Members: Sahil Kumar | Pratyush Kumar |  Vedant Kadam | Koushik Singh | Asutosh Tripathy | Aman Pandey
